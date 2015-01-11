@@ -5,7 +5,8 @@ grunt-boiler-plate
   <img src="https://raw.githubusercontent.com/Blah2014/phonegap-inmobi-plugin/gh-pages/images/BuymeaCoffee.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
 </a>
 
-Help to dynamically refresh browser, generate css and js production files
+Help UI folks to use continuous integration.
+Help to dynamically refresh browser, generate css and js production files.
 
 ## Install
 ```java
