@@ -1,0 +1,2 @@
+/* gruntBoilerPlate - v0.1.0 | Copyright (C) 2015/01/13 SETLEVEL, LLC. All rights reserved.*/
+$(function(){Model.Init()});var Model=function(){var a=this;return a.init=function(){},{Init:a.init}}();$(function(){View.Init()});var View=function(){var a=this;return a.init=function(){},{Init:a.init}}();$(function(){Controller.Init()});var Controller=function(){var a=this;return a.init=function(){},{Init:a.init}}();
