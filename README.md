@@ -11,6 +11,12 @@ Helps dynamically refresh browser, generate css and js production files.
 
 ## Install
 ```java
+$ cd 'to your Grunfile.js location'
+$ npm install
+```
+
+## Packages
+```java
 npm install -g grunt-cli
 npm install grunt-browser-sync --save-dev
 npm install grunt-contrib-clean --save-dev
@@ -20,12 +26,12 @@ npm install grunt-contrib-watch --save-dev
 npm install grunt-css --save-dev
 ```
 
-## Modify tasks in Grunfile.js
+## Modify Grunfile.js
+* Proxy
 * Sources
 * Destination
 
 ## Run
 ```java
-$ cd 'to your Grunfile.js location'
 $ grunt
 ```
