@@ -15,7 +15,7 @@ $ cd 'to your Grunfile.js location'
 $ npm install
 ```
 
-## Packages
+## Installed Packages
 ```java
 npm install -g grunt-cli
 npm install grunt-browser-sync --save-dev
